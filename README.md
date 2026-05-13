@@ -1,4 +1,4 @@
-# loca-grammarly
+# local-grammarly
 
 A tiny macOS helper that rephrases messages and drafts new ones from short instructions, powered by a Groq-hosted LLM. It works in any app — local, Mail, Notes, etc. — by intercepting hotkeys via Hammerspoon.
 
